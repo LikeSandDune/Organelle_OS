@@ -5,6 +5,7 @@
 #include <sys/stat.h>
 
 #include "OSC/OSCMessage.h"
+#include "OSC/OSCBundle.h"
 #include "OSC/SimpleWriter.h"
 #include "Serial.h"
 #include "UdpSocket.h"
